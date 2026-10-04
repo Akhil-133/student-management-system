@@ -1,0 +1,43 @@
+body {
+    background: #f4f7fb;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.card-header {
+    background: white;
+    border-bottom: 1px solid #eee;
+    padding: 18px;
+}
+
+.dashboard-card {
+    border-left: 5px solid #0d6efd;
+}
+
+.form-control {
+    border-radius: 8px;
+}
+
+.btn {
+    border-radius: 8px;
+}
+
+.table {
+    vertical-align: middle;
+}
+
+.badge {
+    font-size: 0.85rem;
+}
